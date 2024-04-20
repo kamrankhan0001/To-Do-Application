@@ -1,3 +1,22 @@
+# React Redux To-Do Application
+
+This is a simple To-Do application built with ReactJS and Redux. It allows users to add, view, and delete tasks.
+
+## Setup Instructions
+
+1. Clone the repository:
+2. Install dependencies:
+3. Run the application:
+ 
+The application will open in your default web browser.
+
+## Usage
+
+- To add a task, type the task into the input field and press Enter or click the "Add Task" button.
+- To delete a task, click the "Delete" button next to the task.
+
+## Folder Structure
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
